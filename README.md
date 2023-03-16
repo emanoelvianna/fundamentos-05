@@ -1,2 +1,2 @@
-# fundamentos-05
+# Fundamentos 05
 Projeto para guardar os códigos da turma de fundamentos
