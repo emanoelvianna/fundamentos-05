@@ -1,1 +1,3 @@
-console.log("Olá mundo!");
+if(10 == 10) {
+    console.log("Olá mundo!");
+}
